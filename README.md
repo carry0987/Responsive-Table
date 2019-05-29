@@ -1,2 +1,2 @@
 # Responsive-Table
-RWD List to Table
+RWD Table
